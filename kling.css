@@ -1,0 +1,60 @@
+body{
+    background-color: hsl(0, 0%, 0%);
+    padding: 20px;
+}
+p{
+    color: hsl(0, 0%, 100%);
+    
+}
+hr{
+    color: hsl(0, 0%, 100%);
+}
+li{
+    color: hsl(0, 0%, 100%);
+}
+a{
+    color: hsl(0, 0%, 100%);
+}
+
+.contenedor-cards{
+      display: flex;
+      gap: 20px;
+      flex-wrap: wrap;
+      
+}
+.card{
+    width: 250px;
+    padding: 20px;
+    border: 1px solid hsl(0, 7%, 27%);
+    border-radius: 8px;
+    background-color: #314252;
+    font-weight: 500;
+    font-size: medium;
+}
+.card-title{
+    color: black;
+}
+
+h2{
+    color: aliceblue;
+    background: #020024;
+background: linear-gradient(90deg, rgba(2, 0, 36, 1) 0%, rgba(9, 9, 121, 1) 52%);
+}
+
+h4{
+    color:aliceblue
+}
+.texto{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.contenedor{
+    display: flex;
+    width: 100%;
+}
+h3{
+    color: black;
+}
