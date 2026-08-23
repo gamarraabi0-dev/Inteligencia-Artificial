@@ -25,10 +25,16 @@ h5{
 h2{
     background: #00D4FF;
 background: linear-gradient(90deg, rgba(0, 212, 255, 1) 17%, rgba(225, 255, 207, 1) 71%);
+font-size: clamp(1.5rem, 4Vw, 3rem);
 }
 nav{
    background: #5effda;
 background: linear-gradient(90deg, rgba(94, 255, 218, 1) 24%, rgba(177, 235, 145, 1) 67%);
     padding: 10px;
     
+}
+.table-container{
+      width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch; 
 }

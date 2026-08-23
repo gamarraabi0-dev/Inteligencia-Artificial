@@ -2,6 +2,11 @@ body{
     background-color: rgb(86, 173, 255);
     padding: 30px;
 }
+section{
+    background: #42c7c9;
+background: linear-gradient(0deg, rgba(66, 199, 201, 1) 23%, rgba(255, 255, 255, 1) 68%);
+padding: 30px;
+}
 h2{
     background: #22C1C3;
 background: linear-gradient(0deg, rgba(34, 193, 195, 1) 0%, rgba(41, 160, 230, 1) 100%);
@@ -14,4 +19,7 @@ h4{
 .contenedor{
     background: #42c7c9;
 background: linear-gradient(0deg, rgba(66, 199, 201, 1) 23%, rgba(255, 255, 255, 1) 68%);
+}
+.section-container{
+   background-color: rgb(86, 173, 255);
 }
