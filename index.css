@@ -7,11 +7,15 @@ section{
 -webkit-border-radius: 6px 6px 6px 6px;
 -moz-border-radius: 6px 6px 6px 6px;
 border: 1px solid #fdfdd0;
-padding: 5%;
+padding: 10%;
 }
 .table-container{
-    width: 60%;
+    margin: 0 auto;
+    width: 100%;
     text-align: center;
+}
+table,th,td{
+    border: 1px solid black
 }
 
 nav{
