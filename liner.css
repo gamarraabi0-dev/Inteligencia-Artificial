@@ -26,6 +26,7 @@ h2{
     background: #00D4FF;
 background: linear-gradient(90deg, rgba(0, 212, 255, 1) 17%, rgba(225, 255, 207, 1) 71%);
 font-size: clamp(1.5rem, 4Vw, 3rem);
+width: 100%;
 }
 nav{
    background: #5effda;
